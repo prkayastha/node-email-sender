@@ -1,0 +1,24 @@
+{
+    "development": {
+        "transporter": {
+            "type": "OAuth2",
+            "user": "94prajesh@gmail.com",
+            "clientId": "781039973521-mngv32f0gqaaf0et8os6lrvmcp2gqqo0.apps.googleusercontent.com",
+            "clientSecret": "3MD5I84Zz_mb7ssiLaQ1hGyt",
+            "refreshToken": "1/i3e8GyL7-1zWdDYWiqOPQ6WlRFdS0R-clFz2H7clJm8",
+            "accessToken": "ya29.GltoBxjphrLsA7iAMBNRJGS2I8n8LtQ54ZKIoKnt2XWJSmSmrGV4BE9mVcipdv4KDQ3pjId_XYPgmQ5AcyLPDjALx7xIjmXf0dlhUx1kkC6AIiyQdUOc0vkvMa0o"
+        },
+        "recipient": "prajeshrajkayastha@gmail.com"
+    },
+    "production": {
+        "transporter": {
+            "type": "OAuth2",
+            "user": "94prajesh@gmail.com",
+            "clientId": "781039973521-mngv32f0gqaaf0et8os6lrvmcp2gqqo0.apps.googleusercontent.com",
+            "clientSecret": "3MD5I84Zz_mb7ssiLaQ1hGyt",
+            "refreshToken": "1/Yxkj-Lkdjfb6EojVRTG0W5x2C4x03h_L8AdJF-0XUiU",
+            "accessToken": "ya29.GltmB3_deP3eqyJRhFSK2fnLdAtpkLOarKcGytR4PFmvhzbxvkwW_G7Za99h3CzHiOQXhmdvElS2-sPwD2wFQpZ7WgeP_YV0-RbOCA3hOYppuV7C-ttENA_CTZ-Q"
+        },
+        "recipient": "santosh.raut@nexttechpoint.com"
+    }
+}

@@ -1,0 +1,10 @@
+#!/usr/bin/nodejs
+var debug = require('debug')('my-application');
+var app = require('../app');
+
+app.set('port', process.env.PORT || 8080);
+
+// Start node server
+app.listen(app.get('port'), '0.0.0.0', function () {
+  console.log('Node server is running on port ' + app.get('port'));
+});
